@@ -1,4 +1,4 @@
-# Name: N-Day Inactive Users Audience
+# Name: Audience of N-Day Inactive Users
 # Description: Users in the last M days who have not logged a user_engagement event in the last N days where M > N.
 # Source: https://support.google.com/firebase/answer/9037342?
 # Type: Standard SQL
